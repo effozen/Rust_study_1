@@ -3,9 +3,11 @@ use std::io;
 fn main() {
 	println!("Guess the number");
 
-	let mut guess::String = String::new();
+	let mut guess = String::new();
 
 	io::stdin()
 		.read_line(&mut guess)
-		.expect("Input Error!");
+		.expect("Failed to read line");
+
+	println!("You guessed: {guess}");
 }
