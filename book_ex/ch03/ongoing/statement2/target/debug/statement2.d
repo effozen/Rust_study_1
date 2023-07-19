@@ -1,0 +1,1 @@
+/Users/oao/data/jd/dev/01_Study/02_rust/rust_docs/book_ex/ch03/ongoing/statement2/target/debug/statement2: /Users/oao/data/jd/dev/01_Study/02_rust/rust_docs/book_ex/ch03/ongoing/statement2/src/main.rs
