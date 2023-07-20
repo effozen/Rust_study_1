@@ -10,7 +10,7 @@ fn main() {
     let fah : f64 = fah.trim().parse().expect("convert error");
     let fah : f64 = fah_to_cel(fah);
 
-    println!("Please input celsius");
+    println!("Please input celsiusfi");
     let mut cel : String = String::new();
     io::stdin()
         .read_line(&mut cel)
