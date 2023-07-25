@@ -1,0 +1,1 @@
+/Users/oao/data/jd/dev/01_Study/02_rust/rust_docs/book_ex/ch04/ongoing/copy_annotation/target/debug/copy_annotation: /Users/oao/data/jd/dev/01_Study/02_rust/rust_docs/book_ex/ch04/ongoing/copy_annotation/src/main.rs
